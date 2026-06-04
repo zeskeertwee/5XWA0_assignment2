@@ -1,0 +1,9 @@
+[project]
+name = "5xwa0-assignment2"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.14"
+dependencies = [
+    "pyomo>=6.10.0",
+]
